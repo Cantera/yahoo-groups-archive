@@ -1,0 +1,37 @@
+
+
+Archiving group 'cantera', mode: update , on Tue May 14 16:17:00 2019
+Failed to retrive message 1 due to HTTP status code 404
+Failed to retrive message 117 due to HTTP status code 404
+Failed to retrive message 156 due to HTTP status code 404
+Failed to retrive message 160 due to HTTP status code 404
+Failed to retrive message 220 due to HTTP status code 404
+Failed to retrive message 393 due to HTTP status code 404
+Failed to retrive message 441 due to HTTP status code 404
+Failed to retrive message 507 due to HTTP status code 404
+Failed to retrive message 524 due to HTTP status code 404
+Failed to retrive message 811 due to HTTP status code 404
+Failed to retrive message 948 due to HTTP status code 404
+Failed to retrive message 950 due to HTTP status code 404
+Failed to retrive message 951 due to HTTP status code 404
+Failed to retrive message 959 due to HTTP status code 404
+Failed to retrive message 1121 due to HTTP status code 404
+Archive finished, archived 1961, time taken is 232.667927027 seconds
+
+Archiving group 'cantera', mode: retry , on Sat Nov 23 12:26:56 2019
+Failed to retrive message 1 due to HTTP status code 404
+Failed to retrive message 117 due to HTTP status code 404
+Failed to retrive message 156 due to HTTP status code 404
+Failed to retrive message 160 due to HTTP status code 404
+Failed to retrive message 220 due to HTTP status code 404
+Failed to retrive message 393 due to HTTP status code 404
+Failed to retrive message 441 due to HTTP status code 404
+Failed to retrive message 507 due to HTTP status code 404
+Failed to retrive message 524 due to HTTP status code 404
+Failed to retrive message 811 due to HTTP status code 404
+Failed to retrive message 948 due to HTTP status code 404
+Failed to retrive message 950 due to HTTP status code 404
+Failed to retrive message 951 due to HTTP status code 404
+Failed to retrive message 959 due to HTTP status code 404
+Failed to retrive message 1121 due to HTTP status code 404
+Archive finished, archived 0, time taken is 12.344505071640015 seconds
